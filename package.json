@@ -49,7 +49,7 @@
     "idb-keyval": "^6.2.2",
     "mammoth": "^1.11.0",
     "nanoid": "^5.1.6",
-    "next": "~15.1.8",
+    "next": "15.1.11",
     "nprogress": "^0.2.0",
     "pdfjs-dist": "5.4.54",
     "posthog-js": "^1.292.0",
